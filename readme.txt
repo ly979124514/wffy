@@ -1,5 +1,4 @@
-this is my first git
-GPL
-Git has a mutable index called stage.
-
-
+1、一周完成app的开发工作 实现主要功能；
+2、一周时间学会git基本操作技术；
+3、一个月的时间了解完成docker技术；
+4、半年时间了解go语言及其开发技术；
